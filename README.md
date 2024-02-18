@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JosephEllie/intro-section.git)
-- Live Site URL: [Add live site URL here](https://josephellie.github.io/intro-section/)
+- Solution URL: https://github.com/JosephEllie/intro-section.git
+- Live Site URL: https://landing-page-nine-chi.vercel.app/
 
 ## My process
 
