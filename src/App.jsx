@@ -3,10 +3,10 @@ import Hero from "./components/Hero";
 
 function App() {
   return (
-    <>
+    <div>
       <Nav />
       <Hero />
-    </>
+    </div>
   );
 }
 
